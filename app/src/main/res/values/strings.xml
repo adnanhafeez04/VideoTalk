@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">VideoTalk</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="write_your_number_here">Write your Number here ...</string>
+    <string name="write_verification_code_here">Write verification code here ...</string>
+    <string name="send_verification_code">Send verification Code</string>
+    <string name="verify">Verify</string>
+</resources>
